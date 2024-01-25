@@ -2,7 +2,7 @@
 * Project description 
 ************************************************************************
 * Project: U.S. food shopper trends 
-* code: Suraj Gurung; ; Suraj Gurung and Angelia Chen; angeliachenlj@gmail.com
+* code: Suraj Gurung; ; Suraj Gurung
 * Date Created: November 9, 2021
 * Data In: [What data does this do-file draw upon?] "DATA_tracker_202111_ready.dta"
 * Data Out: [What data does this do-file produce?]

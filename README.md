@@ -7,6 +7,7 @@ Date: The data is collected by the Florida Agricultural Market Research Center a
 This project produces a cleaned and processed dataset for analysis, as well as various descriptive statistics and visualizations.
 
 The project consists of the following main sections:
+
 Part 1: Housekeeping & Introduction
 Initializes the working environment, sets memory limits, and logs the session.
 
